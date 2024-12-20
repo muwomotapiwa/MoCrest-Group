@@ -79,9 +79,12 @@ body, html {
 
 /* Background images with gradient overlay */
 #about, #subsidiaries, #corporate-responsibility, #contact-us {
-    background: url('../assets/images/Index-background.jpeg') no-repeat center center;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)), /* Overlay */
+        url('../assets/images/Index-background.jpeg') no-repeat center center;
     background-size: cover;
 }
+
 
 .container .right-panel .content-box {
     background: rgba(255, 255, 255, 0.8);
