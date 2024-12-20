@@ -74,7 +74,7 @@ body, html {
 
 /* Background images with gradient overlay */
 #about {
-    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg');
+    background: url('../assets/images/Index-background.jpeg');
 }
 
 #subsidiaries {
