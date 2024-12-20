@@ -1,0 +1,22 @@
+/* Page-specific styling for Subsidiaries page */
+
+/* Customize Right Panel Backgrounds */
+.kypex {
+    background: url('https://af6815798a.imgdist.com/pub/bfra/knkjywkm/wfw/bmz/qgf/kytech.jpeg') no-repeat center center;
+    background-size: cover;
+}
+
+.unfold-africa {
+    background: url('https://af6815798a.imgdist.com/pub/bfra/knkjywkm/m8r/6pk/9bc/unfoldafrica2.jpeg') no-repeat center center;
+    background-size: cover;
+}
+
+.trucklord {
+    background: url('https://af6815798a.imgdist.com/pub/bfra/knkjywkm/2fa/d1w/qdo/truckload.jpeg') no-repeat center center;
+    background-size: cover;
+}
+
+.mocrest-energy {
+    background: url('https://af6815798a.imgdist.com/pub/bfra/knkjywkm/ssx/waw/xkm/energy.jpeg') no-repeat center center;
+    background-size: cover;
+}
