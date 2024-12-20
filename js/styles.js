@@ -1,7 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // Set the logo image dynamically
-    const logo = document.getElementById('logo');
-    logo.src = 'assets/images/MoCrest-logo.jpeg';
-
-    // No need to set background images dynamically, as it's handled by CSS
+    console.log('MoCrest Group website loaded successfully.');
+    // No need to dynamically set the logo or background images since they are now in the CSS
 });
