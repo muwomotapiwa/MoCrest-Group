@@ -72,6 +72,23 @@ body, html {
     text-align: center;
 }
 
+/* Background images with gradient overlay */
+#about {
+    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg');
+}
+
+#subsidiaries {
+    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg');
+}
+
+#corporate-responsibility {
+    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg');
+}
+
+#contact-us {
+    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg');
+}
+
 .container .right-panel .content-box {
     background: rgba(255, 255, 255, 0.8);
     padding: 20px;
