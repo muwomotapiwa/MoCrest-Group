@@ -2,21 +2,30 @@
 
 /* Customize Right Panel Backgrounds */
 .kypex {
-    background: url('../assets/images/KypexTech.jpeg') no-repeat center center;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Overlay */
+        url('../assets/images/KypexTech.jpeg') no-repeat center center;
     background-size: cover;
 }
 
 .unfold-africa {
-    background: url('../assets/images/UnfoldAfrica.jpeg') no-repeat center center;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Overlay */
+        url('../assets/images/UnfoldAfrica.jpeg') no-repeat center center;
     background-size: cover;
 }
 
 .trucklord {
-    background: url('../assets/images/TruckLord.jpeg') no-repeat center center;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Overlay */
+        url('../assets/images/TruckLord.jpeg') no-repeat center center;
     background-size: cover;
 }
 
 .mocrest-energy {
-    background: url('../assets/images/MoCrestEnergy.jpeg') no-repeat center center;
+    background: 
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), /* Overlay */
+        url('../assets/images/MoCrestEnergy.jpeg') no-repeat center center;
     background-size: cover;
 }
+
