@@ -2,11 +2,6 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-image: url('../assets/images/Index-background.jpeg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 100vh;
     overflow-x: hidden;
 }
 
@@ -84,7 +79,6 @@ body, html {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     color: #000;
     max-width: 600px;
-    position: relative;
 }
 
 .read-more {
