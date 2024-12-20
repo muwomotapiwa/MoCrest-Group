@@ -79,7 +79,7 @@ body, html {
 
 /* Background images with gradient overlay */
 #about, #subsidiaries, #corporate-responsibility, #contact-us {
-    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg') no-repeat center center;
+    background: url('../assets/images/Index-background.jpeg') no-repeat center center;
     background-size: cover;
 }
 
