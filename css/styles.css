@@ -32,6 +32,7 @@ body, html {
     margin-bottom: 20px;
 }
 
+/* Navigation buttons */
 .nav-buttons {
     display: flex;
     flex-direction: column;
@@ -57,6 +58,7 @@ body, html {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
+/* Right panel and sections */
 .container .right-panel {
     width: 60%;
     overflow-y: auto;
@@ -76,22 +78,7 @@ body, html {
 }
 
 /* Background images with gradient overlay */
-#about {
-    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg') no-repeat center center;
-    background-size: cover;
-}
-
-#subsidiaries {
-    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg') no-repeat center center;
-    background-size: cover;
-}
-
-#corporate-responsibility {
-    background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg') no-repeat center center;
-    background-size: cover;
-}
-
-#contact-us {
+#about, #subsidiaries, #corporate-responsibility, #contact-us {
     background: linear-gradient(rgba(26, 33, 50, 0.6), rgba(0, 0, 0, 0.9)), url('../assets/images/Index-background.jpeg') no-repeat center center;
     background-size: cover;
 }
